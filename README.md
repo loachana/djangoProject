@@ -1,0 +1,3 @@
+# djangoProject
+
+First django-app
